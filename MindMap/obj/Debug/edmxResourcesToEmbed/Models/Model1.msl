@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HmindMapModelStoreContainer" CdmEntityContainer="HmindMapEntities">
+    <EntitySetMapping Name="MapUsers">
+      <EntityTypeMapping TypeName="HmindMapModel.MapUser">
+        <MappingFragment StoreEntitySet="MapUsers">
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="MapName" ColumnName="MapName" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="HmindMapModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Pass" ColumnName="Pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,194 @@
+E:\Git\MindMapDoAn\MindMap\bin\Debug\MindMap.exe.config
+E:\Git\MindMapDoAn\MindMap\bin\Debug\MindMap.exe
+E:\Git\MindMapDoAn\MindMap\bin\Debug\MindMap.pdb
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.exe
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.pdb
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.MainPage.resources
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+E:\Git\MindMapDoAn\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\bin\Debug\MindMap.exe.config
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\bin\Debug\MindMap.exe
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\bin\Debug\MindMap.pdb
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.MainPage.resources
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.exe
+E:\Git\MindMapDoAn\DoanWinForm\MindMap\obj\Debug\MindMap.pdb
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\bin\Debug\MindMap.exe.config
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\bin\Debug\MindMap.exe
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\bin\Debug\MindMap.pdb
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.MainPage.resources
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.exe
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.pdb
+C:\Users\18110\Downloads\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\DoanWinForm-f84df955bd9faa1f13dfe63fcacab8b789999930\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+E:\Git Hub\DoanWinForm\MindMap\bin\Debug\MindMap.exe.config
+E:\Git Hub\DoanWinForm\MindMap\bin\Debug\MindMap.exe
+E:\Git Hub\DoanWinForm\MindMap\bin\Debug\MindMap.pdb
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.MainPage.resources
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.exe
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.pdb
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+E:\Git Hub\DoanWinForm\MindMap\bin\Debug\EntityFramework.dll
+E:\Git Hub\DoanWinForm\MindMap\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git Hub\DoanWinForm\MindMap\bin\Debug\EntityFramework.xml
+E:\Git Hub\DoanWinForm\MindMap\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.View.LoginForm.resources
+E:\Git Hub\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.CopyComplete
+E:\Git Hub\DoanWinForm - Copy\MindMap\bin\Debug\MindMap.exe.config
+E:\Git Hub\DoanWinForm - Copy\MindMap\bin\Debug\MindMap.exe
+E:\Git Hub\DoanWinForm - Copy\MindMap\bin\Debug\MindMap.pdb
+E:\Git Hub\DoanWinForm - Copy\MindMap\bin\Debug\EntityFramework.dll
+E:\Git Hub\DoanWinForm - Copy\MindMap\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git Hub\DoanWinForm - Copy\MindMap\bin\Debug\EntityFramework.xml
+E:\Git Hub\DoanWinForm - Copy\MindMap\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.LoginForm.resources
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.MainPage.resources
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.csproj.CopyComplete
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.exe
+E:\Git Hub\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.pdb
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\bin\Debug\MindMap.exe.config
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\bin\Debug\MindMap.exe
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\bin\Debug\MindMap.pdb
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\bin\Debug\EntityFramework.dll
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\bin\Debug\EntityFramework.xml
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.Icon_Mood.resources
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.Icon_Priority.resources
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.LoginForm.resources
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.MainPage.resources
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.csproj.CopyComplete
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.exe
+E:\DoanWinForm - Copy\DoanWinForm - Copy\MindMap\obj\Debug\MindMap.pdb
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\bin\Debug\MindMap.exe.config
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\bin\Debug\MindMap.exe
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\bin\Debug\MindMap.pdb
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\bin\Debug\EntityFramework.dll
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\bin\Debug\EntityFramework.SqlServer.dll
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\bin\Debug\EntityFramework.xml
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\bin\Debug\EntityFramework.SqlServer.xml
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.Icon_Mood.resources
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.Icon_Priority.resources
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.View.LoginForm.resources
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.MainPage.resources
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.CopyComplete
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.exe
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.pdb
+E:\DoanWinForm - Copy\DoanWinForm\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\bin\Debug\MindMap.exe.config
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\bin\Debug\MindMap.exe
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\bin\Debug\MindMap.pdb
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\bin\Debug\EntityFramework.dll
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\bin\Debug\EntityFramework.xml
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.Icon_Mood.resources
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.Icon_Priority.resources
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.View.LoginForm.resources
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.MainPage.resources
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.csproj.CopyComplete
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.exe
+C:\Users\18110\OneDrive\Máy tính\chấm\DoanWinForm\MindMap\obj\Debug\MindMap.pdb
+E:\Git\MindMapDoAn\MinMap\MindMap\bin\Debug\MindMap.exe.config
+E:\Git\MindMapDoAn\MinMap\MindMap\bin\Debug\MindMap.exe
+E:\Git\MindMapDoAn\MinMap\MindMap\bin\Debug\MindMap.pdb
+E:\Git\MindMapDoAn\MinMap\MindMap\bin\Debug\EntityFramework.dll
+E:\Git\MindMapDoAn\MinMap\MindMap\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\MindMapDoAn\MinMap\MindMap\bin\Debug\EntityFramework.xml
+E:\Git\MindMapDoAn\MinMap\MindMap\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.Icon_Mood.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.Icon_Priority.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.View.LoginForm.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.MainPage.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.csproj.CopyComplete
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.exe
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.pdb
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.View.UCcontrol.UcMapUser.resources
+E:\Git\MindMapDoAn\MinMap\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.csprojAssemblyReference.cache
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.Icon_Mood.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.Icon_Priority.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.View.LoginForm.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.MainPage.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.View.UCcontrol.Node.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.View.UCcontrol.UCFormat.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.View.UCcontrol.UCIcon.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.View.UCcontrol.UcMapUser.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.View.UCcontrol.UCToolBar.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.csproj.GenerateResource.cache
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.exe
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.pdb
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.Properties.Resources.resources
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.csproj.CoreCompileInputs.cache
+E:\Git Hub\MinMap-master\MindMap\bin\Debug\MindMap.exe.config
+E:\Git Hub\MinMap-master\MindMap\bin\Debug\MindMap.exe
+E:\Git Hub\MinMap-master\MindMap\bin\Debug\MindMap.pdb
+E:\Git Hub\MinMap-master\MindMap\bin\Debug\EntityFramework.dll
+E:\Git Hub\MinMap-master\MindMap\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git Hub\MinMap-master\MindMap\bin\Debug\EntityFramework.xml
+E:\Git Hub\MinMap-master\MindMap\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git Hub\MinMap-master\MindMap\obj\Debug\MindMap.csproj.CopyComplete

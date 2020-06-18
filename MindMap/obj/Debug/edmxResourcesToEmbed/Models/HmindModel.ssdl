@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HmindMapModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="UserMap">
+    <Key>
+      <PropertyRef Name="mapID" />
+    </Key>
+    <Property Name="mapID" Type="int" Nullable="false" />
+    <Property Name="MapofUser" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Pass" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__UserMap__MapofUs__267ABA7A">
+    <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
+    <End Role="UserMap" Type="Self.UserMap" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Username" />
+      </Principal>
+      <Dependent Role="UserMap">
+        <PropertyRef Name="MapofUser" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HmindMapModelStoreContainer">
+    <EntitySet Name="UserMap" EntityType="Self.UserMap" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__UserMap__MapofUs__267ABA7A" Association="Self.FK__UserMap__MapofUs__267ABA7A">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserMap" EntitySet="UserMap" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

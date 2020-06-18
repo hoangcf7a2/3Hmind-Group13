@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HmindMapModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="MapUser">
+    <Key>
+      <PropertyRef Name="MapName" />
+    </Key>
+    <Property Name="Username" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MapName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="User" Relationship="Self.FK__MapUsers__Conten__267ABA7A" FromRole="MapUsers" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Username" />
+    </Key>
+    <Property Name="Username" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Pass" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="MapUsers" Relationship="Self.FK__MapUsers__Conten__267ABA7A" FromRole="Users" ToRole="MapUsers" />
+  </EntityType>
+  <Association Name="FK__MapUsers__Conten__267ABA7A">
+    <End Role="Users" Type="Self.User" Multiplicity="0..1" />
+    <End Role="MapUsers" Type="Self.MapUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="Username" />
+      </Principal>
+      <Dependent Role="MapUsers">
+        <PropertyRef Name="Username" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HmindMapEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="MapUsers" EntityType="Self.MapUser" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK__MapUsers__Conten__267ABA7A" Association="Self.FK__MapUsers__Conten__267ABA7A">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="MapUsers" EntitySet="MapUsers" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
